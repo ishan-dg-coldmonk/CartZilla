@@ -1,2 +1,2 @@
 # CartZilla
-an full stack E-Commerce Appication
+a full stack E-Commerce Appication
